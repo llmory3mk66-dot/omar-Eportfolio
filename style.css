@@ -274,3 +274,7 @@ height:320px;
         0 0 40px #00d9ff,
         0 0 80px rgba(0,217,255,.7);
 }
+.project-link {
+    color: white;
+    text-decoration: none;
+}
